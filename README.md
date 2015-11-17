@@ -1,3 +1,4 @@
 # PathMorph
 Android Path Morph
-Path morph animation
+a sample code for Path morph animation
+
